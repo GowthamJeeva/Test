@@ -1,5 +1,6 @@
 function sortedArray(arr){
 	var count = 1;
+	var count5 =2;
 	var freq = arr ;
 	var res = [];
 	var endLoop = false;
